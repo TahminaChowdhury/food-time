@@ -35,7 +35,7 @@ h1{
     
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 90px;
 }
 .pic-edit{
     width:50%;
@@ -74,7 +74,8 @@ h1{
 .grey-colour{
     color: gray;
     font-weight:bolder;
-   
+    padding-top: 40px;
+  
 }
 .bold{
     font-weight:bolder;
@@ -85,7 +86,7 @@ h1{
 .resize{
    text-align: left;
    padding-left: 5%;
-  
+   
 }
 .recipe-box{
     width: 20%;
@@ -93,8 +94,10 @@ h1{
     margin-right: 5%;
     box-shadow:10px 10px 50px grey;
     border-radius: 8px;
-    
    
+}
+.rcp-gap{
+    padding-top: 20px;
 }
 
 .width-size{
