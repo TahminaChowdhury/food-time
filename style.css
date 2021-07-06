@@ -14,7 +14,7 @@ h1{
     padding-left: 4%;
 }
 .half-width img{
-    width: 60%;
+    width: 70%;
     
 }
 .new-width{
@@ -79,11 +79,13 @@ h1{
 .bold{
     font-weight:bolder;
     text-align: left;
-    padding-left: 2%;
+    padding-left: 5%;
+    padding-top: 1%;
 }
 .resize{
    text-align: left;
-   padding-left: 2%;
+   padding-left: 5%;
+  
 }
 .recipe-box{
     width: 20%;
